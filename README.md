@@ -1,6 +1,6 @@
 # Gosling Examples
 
-This pages contains a list of example visualizations created with [Gosling](https://gislong.js.org). If you created know of or have create a cool visualization yourself, don't hesitate and submit a PR.
+This pages contains a list of example visualizations created with [Gosling](https://gosling.js.org). If you created know of or have create a cool visualization yourself, don't hesitate and submit a PR.
 
 ## Data Loading
 
